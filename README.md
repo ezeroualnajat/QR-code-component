@@ -11,11 +11,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 ### Links
 
 - Solution URL: (https://github.com/ezeroualnajat/QR-code-component)
+- Live Preview: (https://najatezeroual.me/qr-code/)
 
 ### Built with
 
